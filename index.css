@@ -1,0 +1,283 @@
+body
+{
+
+    margin: 0;
+}
+.hero{    background-color: #ffffff;
+    color: #FBFADA;    height: 100vh;
+    display: flex;    font-family: "Dancing Script", cursive;
+}.korobka{
+    height: 0vh;
+    align-items: center;    justify-content: center;
+    display: flex;    height: 100vh;
+    margin: 0 10px;    padding: 0 100px;
+    width: 50%;}
+h1{    line-height: 120px;
+    font-size: 9rem;
+    color: rgb(105, 105, 243);
+}h2{  color: rgb(105, 105, 243);
+   font-size: 2rem;    margin: 0;
+   font-weight: 400;}
+h3{    font-size: 4rem;  color: rgb(0, 0, 0);
+   margin: 0;    font-weight: 400;
+}
+
+h8{
+    color: rgb(105, 105, 243);
+    text-align: center;
+    font-size: 5rem;
+}
+
+.photo{   width: 70%; 
+    border: 10px solid rgb(105, 105, 243);    rotate: -5deg;
+   }
+.t1{
+
+  
+    color: rgb(0, 0, 0);
+    height: 100vh;
+    display: flex;
+   
+    background-size: 100%;
+}
+.t2
+{
+   
+    color: rgb(0, 0, 0);
+    height: 100vh;
+    display: flex;
+      
+       background-size: 100%;
+}
+.t3
+{
+   
+    color: rgb(0, 0, 0);
+    height: 100vh;
+     
+       background-size: 100%;
+       align-items: center;
+    justify-content: center;
+}
+.t4
+{
+   
+    color: rgb(0, 0, 0);
+    height: 90vh;
+    
+       background-size: 100%;
+}
+
+.t6
+{
+   
+    color: rgb(0, 0, 0);
+    height: 200vh;
+     
+       background-size: 100%;
+}
+.emp
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp1
+{
+
+}
+.emp2
+{text-align: center;
+    background-color: #000000;
+    height: 85vh;
+    padding: 0 100px;
+    
+}
+.emp3
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp4
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp5
+{background-color: #000000;
+    
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    padding: 0 100px;
+    
+}
+.emp6
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 30vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp7
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 10vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 40%;
+}
+.emp8
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp9
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp10{
+    justify-content: center;
+
+}
+
+.emp12
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp13
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;  
+}
+
+.iii
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+.jjj
+{
+    color: white;
+    height: 50vh;
+    display: flex;
+}
+.lll
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+
+h6
+{ color: #000000;
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+    font-size: 4rem;
+}
+h5
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+}
+
+.prizrak{
+    z-index: 5;
+    top: 500px;
+    right:300px;
+   position: absolute;
+   width: 1px;
+   height: 1px;
+   background-color: white;
+    box-shadow: 0 0 300px 100px white;
+}
+h4
+{font-family: "Playfair Display", serif;
+    color: #ffffff;
+    margin: 0;
+    font-weight: 400;
+     font-size: 3rem;
+}
+h9{color:rgb(105, 105, 243);
+    font-size: 3rem;
+  
+}
+.photo1{
+  
+    width: 50%; 
+    border: 10px solid  rgb(105, 105, 243);
+}
+.textcenter{ 
+    background-color: #000000;    text-align: center; 
+} 
+.kor{    font-family: "Sedan SC", serif;
+     align-items: center;
+    justify-content: center;    display: flex;
+    padding: 0 100px;    width: 60%;
+}.pho{    width: 90%;
+    border: 5px solid   rgb(105, 105, 243);    
+    height: 500px;
+}
+.emp11{
+    
+      justify-content: right;
+    display: flex;  
+    }
+h5{
+    line-height: 120px;
+    font-size: 2rem;
+    color: rgb(105, 105, 243);
+}
+h7{font-family: "Freeman", sans-serif;
+    line-height: 120px;
+    font-size: 3rem;
+    color: rgb(105, 105, 243);
+}
+.hugetext{
+   
+    align-items: center;    justify-content: center;
+    display: flex; 
+    margin: 0 10px;    padding: 0 100px;
+    width: 50%;}
+    .photo1{   width: 70%; 
+        border: 10px solid rgb(105, 105, 243);    }
